@@ -1,0 +1,46 @@
+title = "Eddie Webbinaro"
+baseURL = "https://example.com/"
+theme = "resume"
+languageCode = "en-us"
+PygmentsCodeFences = true
+PygmentsCodeFencesGuessSyntax = true
+PygmentsStyle = "monokai"
+enableGitInfo = false
+
+[params]
+address = "Izmir, Turkey"
+email = "leins275@gmail.com"
+favicon = "/favicon.ico"
+firstName = "Nikita"
+lastName = "Lanskov"
+phone = "1-555-555-1234"
+profileImage = "img/TechChat.png"
+
+showQr = false
+showContact = true
+showBoards  = true
+showCertifications = true
+showSocializations = true
+
+#sections = ["skills","publications","creations","contributions","experience","education","blog"]
+sections = ["publications","creations","contributions"]
+
+
+[params.google]
+
+[params.google.analytics]
+trackerID = "XX-123446-01"
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/edwardwebb/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/eddiewebb/"
+
+[outputs]
+home = ["HTML", "JSON"]
+
+[taxonomies]
+tag = "tags"

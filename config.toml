@@ -27,6 +27,8 @@ showSocializations = true
 #sections = ["skills","publications","creations","contributions","experience","education","blog"]
 #sections = ["publications","creations","contributions"]
 
+sections = ["projects"]
+
 
 [params.google]
 [params.google.analytics]

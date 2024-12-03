@@ -25,11 +25,10 @@ showCertifications = true
 showSocializations = true
 
 #sections = ["skills","publications","creations","contributions","experience","education","blog"]
-sections = ["publications","creations","contributions"]
+#sections = ["publications","creations","contributions"]
 
 
 [params.google]
-
 [params.google.analytics]
 trackerID = "XX-123446-01"
 

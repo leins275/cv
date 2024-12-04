@@ -4,6 +4,6 @@
     "description": "My resume",
     "private": true,
     "scripts": {
-         "dev": "hugo server --disableFastRender"
+         "dev": "hugo server --disableFastRender -D"
     }
 }

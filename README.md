@@ -10,3 +10,9 @@ To run hugo server for local development, you can use:
 ```bash
 npm run dev
 ```
+
+# Hugo tips
+
+## 1. Use yaml by default
+
+When creating new site/theme, use `--format yaml` option.

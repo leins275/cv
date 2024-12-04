@@ -2,3 +2,12 @@ title       : "Nikita Lanskov - CV"
 baseURL     : "https://leins275.github.io/"
 languageCode: "en-us"
 theme       : "basic"
+
+menus:
+  main:
+    - name: 'Home'
+      pageRef: '/'
+      weight: 10
+    - name: 'Projects'
+      pageRef: '/projects'
+      weight:  20

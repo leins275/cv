@@ -1,0 +1,9 @@
+{
+    "name": "cv",
+    "version": "1.0.1",
+    "description": "My resume",
+    "private": true,
+    "scripts": {
+         "dev": "hugo server --disableFastRender"
+    }
+}

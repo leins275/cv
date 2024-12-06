@@ -2,6 +2,10 @@
 title: "{{ replace .Name "-" " " | title }}"
 draft: true
 summary: My awesome project
+dates: May 2018 - May 2020 (2 years 1 month)
+client: 
+tags:
+  - ML
 ---
 
 ![alt](//via.placeholder.com/640x150)

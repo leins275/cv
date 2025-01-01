@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
 draft: true
-summary: My awesome project
 dates: May 2018 - May 2020 (2 years 1 month)
+title: "{{ replace .Name "-" " " | title }}"
 client: 
+summary: My awesome project
 tags:
   - ML
 ---

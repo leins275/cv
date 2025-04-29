@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 dates: Nov 2023 - Till Now (1 year 3 months)
 title: LLM based chatbot
 client: Merck Sharp & Dohme Corp. USA; Life Sciences & Healthcare

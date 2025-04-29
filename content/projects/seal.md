@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 dates: May 2018 - May 2020 (2 years 1 month)
 title: Seal recognition
 client: NPO Ecofactor

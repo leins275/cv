@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 dates: Dec 2021 - Jun 2023 (1 year 7 months) 
 title: NIBR GEN
 client: Novartis Institutes for BioMedical Research, Inc.; Life Sciences & Healthcare

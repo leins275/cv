@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 dates: Jan 2024 - Dec 2024 (1 year)
 title: iPaaS platform
 client: Merck Sharp & Dohme Corp. USA; Life Sciences & Healthcare

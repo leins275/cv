@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 dates: May 2020 - Till Now (4 years 8 months)
 title: Xthon
 client: NPO «RSV» & NPO «RAEC» & ITS.xyz

@@ -16,3 +16,6 @@ npm run dev
 ## 1. Use yaml by default
 
 When creating new site/theme, use `--format yaml` option.
+
+# References
+- [I18n Tutorial: How to Go Multilingual with Hugo](https://phrase.com/blog/posts/i18n-tutorial-how-to-go-multilingual-with-hugo/)
